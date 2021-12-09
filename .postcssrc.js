@@ -1,5 +1,5 @@
 module.exports = {
-  plugin: [
-    require('autoprefrixer')
+  plugins: [
+    require('autoprefixer')
   ]
 }
